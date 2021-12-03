@@ -1,6 +1,4 @@
-horizontal = 0
 count2 = 0
-depth = 0
 integer = ""
 lines = ""
 lines2 = ""
