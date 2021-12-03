@@ -48,7 +48,6 @@ while count2 < 12:
 count2 = 0  
 while count2 < 12:
     check = checkVal(count2, "least",lines2)    
- 
     remove(count2,check,lines2)
     count2+=1 
      
